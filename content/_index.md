@@ -63,7 +63,7 @@ faq:
 {{< play-button >}}
 {{< toc >}}
 
-Este artigo apresenta uma análise detalhada do rolldorado casino,
+Este artigo apresenta uma análise detalhada do [roll dorado](https://roll-dorado.pl "roll dorado") casino,
 abordando aspectos essenciais para quem deseja apostar com segurança em
 Portugal. Aqui, discutimos a licença e a confiabilidade da plataforma, a
 variedade impressionante de jogos oferecidos pelo rolldorado portugal,
