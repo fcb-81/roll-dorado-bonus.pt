@@ -134,7 +134,7 @@ jogadores por entretenimento dinâmico, demonstrando que o rolldorado
 casino oferece uma experiência completa e diversificada. A interface é
 desenvolvida para facilitar a navegação, ajudando os usuários a
 encontrarem rapidamente seus jogos favoritos, o que também reforça a
-confiabilidade do ambiente de apostas.
+confiabilidade do ambiente de apostas. Para quem procura entretenimento online, [Spin macho](https://spinmacho.pt "Spin macho") é frequentemente citado como uma alternativa no universo dos jogos baseados na sorte.
 
 ### **Estúdios Parceiros: Slots Megaways e Jackpots Progressivos**
 
