@@ -97,7 +97,7 @@ integridade das operações. Essa certificação demonstra que o rolldorado
 monitorada atentamente para garantir a proteção dos apostadores. Os
 processos de verificação periódicos, aliados aos certificados RNG,
 reforçam a confiança dos jogadores e mostram que o casino roll dorado é
-verdadeiramente comprometido com a segurança.
+verdadeiramente comprometido com a segurança. Descubra momentos de diversão com [Spino gambino](https://spino-gambino.com.pt "Spino gambino") e aproveite uma experiência leve e envolvente.
 
 ### **Histórico de Cumprimento Legal e Auditorias de Jogo Justo**
 
