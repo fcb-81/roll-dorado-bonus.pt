@@ -110,7 +110,7 @@ corroboram a transparência dos resultados, demonstrando que o rolldorado
 é confiável e responsável. Essa dedicação à integridade transforma o
 ambiente de apostas em um espaço onde os jogadores podem se sentir
 seguros, sabendo que cada operação passou por avaliações criteriosas e
-que a plataforma mantém um compromisso ético inabalável.
+que a plataforma mantém um compromisso ético inabalável. Uma análise detalhada das suas funcionalidades está disponível em [billionaire spin](https://billionaire-spin.pt "billionaire spin").
 
 ## **Catálogo de Jogos do Rolldorado Casino e Variedade de Provedores**
 
