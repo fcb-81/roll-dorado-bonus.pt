@@ -20,10 +20,10 @@ playButtonText = "Jogar Agora"
 referralBaseUrl = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=roll-dorado-bonus.pt"
 activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
 demoIframeCode = ""
-playPath = "start"
-tokenPath = "_f79f2d4a"
-cookieName = "qq6"
-jsAsset = "ud42y0"
+playPath = "begin"
+tokenPath = "_277bd9ff"
+cookieName = "vog"
+jsAsset = "s2dt45"
 
 [build]
 writeStats = true
