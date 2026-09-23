@@ -1,0 +1,11 @@
+name = "roll-dorado-bonus-pt"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "public"
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=roll-dorado-bonus.pt"
+HMAC_KEY = "29864eb6382ac94346d3b80fe430dc7c37d0755788b5721908f2b90189262d52"
+COOKIE_NAME = "qq6"
+PLAY_PATH = "start"
+BUTTON_ID = "p06b7061c69eb711b696569ed7d64de59"
+GATE_SALT = "c71eae07614c4894"

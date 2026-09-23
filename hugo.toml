@@ -3,6 +3,8 @@ defaultContentLanguage = "pt"
 title = "Roll-dorado-bonus"
 enableRobotsTXT = true
 buildFuture = true
+disableHugoGeneratorInject = true
+disableKinds = [ "taxonomy", "term",]
 
 [pagination]
 pagerSize = 10
@@ -18,6 +20,10 @@ playButtonText = "Jogar Agora"
 referralBaseUrl = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=roll-dorado-bonus.pt"
 activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
 demoIframeCode = ""
+playPath = "start"
+tokenPath = "_f79f2d4a"
+cookieName = "qq6"
+jsAsset = "ud42y0"
 
 [build]
 writeStats = true
