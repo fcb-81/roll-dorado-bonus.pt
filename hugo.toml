@@ -19,10 +19,10 @@ faviconPNG = "/images/favicon-32x32.png"
 playButtonText = "Jogar Agora"
 activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
 demoIframeCode = ""
-playPath = "start"
-tokenPath = "_9ee7db9c"
-cookieName = "kz6"
-jsAsset = "a8bbpi"
+playPath = "play-now"
+tokenPath = "_0f45cb92"
+cookieName = "g6z"
+jsAsset = "atbk2e"
 
 [build]
 writeStats = true
